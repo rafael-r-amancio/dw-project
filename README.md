@@ -21,7 +21,7 @@ Projeto consiste em criar um Datawarehouse com todas suas caracteristicas necess
 
 ### 🛣️ Estrutura
 
-![Estutura](./imagens/dw-project.png)
+![Estutura](./images/dw-project.png)
 
 ### 🗣 Fale Comigo
 
