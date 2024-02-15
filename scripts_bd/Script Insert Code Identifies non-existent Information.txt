@@ -1,0 +1,15 @@
+INSERT INTO dw.dim_departamento(
+	sk_departamento, cod_departamento, nom_departamento, dtc_inicio, dtc_fim, versao)
+	VALUES (-1, -1, 'SEM DEPARTAMENTO', '1900-01-01', NULL, 1);
+
+INSERT INTO dw.dim_vendedor(
+	sk_vendedor, cod_vendedor, nom_vendedor, dtc_inicio, dtc_fim, versao)
+	VALUES (-1, -1, 'SEM VENDEDOR', '1900-01-01', NULL, 1);
+
+INSERT INTO dw.dim_produto (
+	sk_produto, cod_produto, nom_produto, dtc_inicio, dtc_fim, versao)
+	VALUES (-1, -1, 'SEM PRODUTO', '1900-01-01', NULL, 1);
+	
+INSERT INTO dw.dim_tempo (
+	ano, data, dia_mes, dia_semana_desc, mes, mes_desc, sk_tempo)
+	VALUES (-1, '1900-01-01', -1, 'SEM DATA', -1, 'SEM DATA', -1);
