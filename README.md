@@ -18,6 +18,7 @@ Projeto consiste em criar um Datawarehouse com todas suas caracteristicas necess
 - Na estrutura de pasta existe a pasta **project_folder** que contém metadados do ambiente;
 - Necessário criar os schemas, tabelas de staging e datawarehouse;
 - Alteração configuração de conexão conforme sua necessidade;
+- Configurar o Metabase para se conectar ao DW e criar visualizações.
 
 ### 🛣️ Estrutura
 
@@ -48,7 +49,8 @@ Project consists of creating a Datawarehouse with all its necessary features, su
 - The data sources are in the **data** folder;
 - In the folder structure there is the **project_folder** folder that contains environment metadata;
 - Necessary to create schemas, staging tables and datawarehouse;
-- Change connection configuration according to your needs.
+- Change connection configuration according to your needs;
+- Configure Metabase to connect to DW and create views.
 
 ### 🛣️ Structure
 
